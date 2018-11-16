@@ -4,7 +4,7 @@
   "manifest_version": 2,
   "name": "Wide GitHub",
   "version": "1.0.1",
-  "homepage_url": "https://github.com/fabiocchetti/widegithub",
+  "homepage_url": "https://github.com/rredburn/widegithub",
   "icons": {
     "128": "icons/widegithub-128.png"
   },
